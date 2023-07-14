@@ -22,12 +22,12 @@ States are handled using redux-toolkit. Upon sign in home page is shown with use
 
 # For task 4 and task 5 the program has to be run in the server environment.
 
-> It can be found inside 'Tasks' folder.
-> To run those just open the terminal and type 'npm start'.
-> To run task 4, go to server.js and comment line 40.
-> Output can be seen in the terminal for the task 4.
-> To run task 5, go to server.js and comment line 39.
-> Output can be seen in the terminal for the task 5.
+-> It can be found inside 'Tasks' folder.
+-> To run those just open the terminal and type 'npm start'.
+-> To run task 4, go to server.js and comment line 40.
+-> Output can be seen in the terminal for the task 4.
+-> To run task 5, go to server.js and comment line 39.
+-> Output can be seen in the terminal for the task 5.
 
 # Task 4
 
